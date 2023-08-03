@@ -7,7 +7,7 @@ const db = mysql.createPool(
     {
         host: 'localhost',
         user: 'root',
-        password: '123password',
+        password: 'Password123',
         database: 'employee_db'
     },
     console.log('Connected to the employee_db database')
