@@ -1,7 +1,7 @@
 INSERT INTO department (id, name)
 VALUES (1,'Management'),
        (2,'Remote'),
-       (3,'Floor Rep'),;
+       (3,'Floor Rep');
 
 INSERT INTO role (id, title, salary, department_id)
 VALUES (1,'Manager', 100,000, 1),
